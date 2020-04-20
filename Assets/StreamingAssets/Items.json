@@ -1,0 +1,58 @@
+﻿[
+  {
+    "id": 0,
+    "title": "Empty Bottle",
+    "value": 6,
+    "destription": "Pusta butelka, w która możesz wlać rzeczy",
+    "stackable": true,
+    "slug": "Bottle_empty-01"
+  },
+  {
+    "id": 1,
+    "title": "diamond",
+    "value": 6,
+    "destription": "Ooo, świeci się!",
+    "stackable": true,
+    "slug": "Dimond-01"
+  },
+  {
+    "id": 2,
+    "title": "Onion",
+    "value": 6,
+    "destription": "[...]Cebula ma warstwy",
+    "stackable": true,
+    "slug": "Onion-01"
+  },
+  {
+    "id": 3,
+    "title": "ring",
+    "value": 6,
+    "destription": "All the single ladies",
+    "stackable": true,
+    "slug": "Ring-01"
+  },
+  {
+    "id": 4,
+    "title": "spring",
+    "value": 6,
+    "destription": "idealna na palca",
+    "stackable": true,
+    "slug": "sprezyna-01"
+  },
+  {
+    "id": 5,
+    "title": "scroll",
+    "value": 6,
+    "destription": "Mozna na niej cos pisac",
+    "stackable": true,
+    "slug": "Scroll-01"
+  },
+  {
+    "id": 6,
+    "title": "grymuar",
+    "value": 6,
+    "destription": "emanuje ciemna energia",
+    "stackable": true,
+    "slug": "Grymuar-01"
+  }
+]
